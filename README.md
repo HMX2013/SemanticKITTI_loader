@@ -33,7 +33,7 @@ change the /data_dir to your dataset file path
 
     <rosparam param="/seq">"00"</rosparam>
     <rosparam param="/fps">10</rosparam>
-    <rosparam param="/data_dir">"/home/dnn/paper_clustering/semanticKITTI/sequences"</rosparam>
+    <rosparam param="/data_dir">"/home/semanticKITTI/sequences"</rosparam>
 
 
 ## Results
